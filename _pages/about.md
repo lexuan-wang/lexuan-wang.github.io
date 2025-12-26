@@ -41,7 +41,4 @@ My current portfolio includes directing multiple funded research initiatives whi
 
 ## Latest Publications
 - **Zhang, C.**, & Wang, L. (2025). **Virtual worlds, real politics: A cross‐national comparative study of metaverse policy approaches**. *Politics and Governance*, 13 , Article 10239. [(DOI)](https://doi.org/10.17645/pag.10239)
-- Hu, Z., **Zhang, C.**, & Galligan, D. (2025). **Technology as Statecraft: Remaking Sovereignty, Security, and Leadership in a Multipolar Age**. *Politics and Governance*, 13, Article 11743. [(DOI)](https://doi.org/10.17645/pag.11743)
-- **Zhang, C.**, Jin, Y., & Si, R. (2025). **Propaganda à la Russe: Historical Continuance and Modern Adaptation**. *Critical Studies in Media Communication*, 1-6. [(DOI)](https://doi.org/10.1080/15295036.2025.2469094)
-- **Zhang, C.** (2023). **Authoritarian Norm Contestation and International Broadcasting: RT's Norm Contestation Strategy During the Ukraine Crisis**. *International Politics*, online. [(DOI)](https://doi.org/10.1057/s41311-023-00513-0)
-- **Zhang, C.**, Blanchard, P., & Zhang, D. (2022). **International Broadcasting in the Time of Geopolitical Crises: Comparing Communication Strategies of CGTN and RT**. *Journalism Practice*, 18(8), 1977-2004. [(DOI)](https://doi.org/10.1080/17512786.2022.2140445)
+
