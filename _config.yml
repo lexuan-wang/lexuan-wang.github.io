@@ -58,21 +58,21 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Chang Zhang"
+  name   : "Lexuan Wang"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "\ 
   Communication University of China \ \n
   School of Government and Public Affairs \ \n
   Department of Political Communication \ \n"
 
-  Email: "changzhang@cuc.edu.cn"
+  Email: "wanglexuan@cuc.edu.cn"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:changzhang@cuc.edu.cn"
+      url: "mailto:wanglexuan@cuc.edu.cn"
     - label: "Google Scholar"
       icon: "fab fa-fw fa-google"
-      url: "https://scholar.google.com/citations?user=CYxRAnAAAAAJ&hl=en&authuser=1"
+      url: 
     - label: "ResearchGate"
       icon: "fab fa-fw fa-researchgate"
       url: "https://www.researchgate.net/profile/Chang-Zhang-2?ev=hdr_xprf&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6Il9kaXJlY3QiLCJwYWdlIjoiaG9tZSIsInByZXZpb3VzUGFnZSI6Il9kaXJlY3QiLCJwb3NpdGlvbiI6Imdsb2JhbEhlYWRlciJ9fQ"
