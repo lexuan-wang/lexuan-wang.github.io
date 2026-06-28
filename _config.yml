@@ -1,0 +1,49 @@
+# Site settings
+title: 王乐轩
+email: wanglexuan@cuc.edu.cn
+description: >-
+  王乐轩个人学术主页 — 中国传媒大学政治传播研究所博士研究生，
+  研究领域为政治传播、国际传播、信息地缘政治与论坛外交。
+minimal_mistakes_skin: default
+search: false
+locale: zh-CN
+
+# Build settings
+markdown: kramdown
+remote_theme: mmistakes/minimal-mistakes
+
+include:
+  - _pages
+
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jemoji
+  - jekyll-include-cache
+
+author:
+  name   : "王乐轩"
+  avatar : "/assets/images/bio-photo.jpg"
+  bio    : "中国传媒大学 政府与公共事务学院<br>政治传播研究所 博士研究生"
+  location: "北京"
+  email  : "wanglexuan@cuc.edu.cn"
+  links:
+    - label: "邮箱"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:wanglexuan@cuc.edu.cn"
+
+footer:
+  links:
+    - label: "邮箱"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:wanglexuan@cuc.edu.cn"
+
+defaults:
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      classes: wide
+      author_profile: true
