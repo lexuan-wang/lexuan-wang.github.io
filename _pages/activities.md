@@ -2,7 +2,6 @@
 permalink: /activities/
 title: "学术活动"
 ---
-<br>
 
 ## “人工智能时代的国际政治传播研究”专题研讨
 
