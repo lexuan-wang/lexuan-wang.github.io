@@ -2,7 +2,6 @@
 permalink: /research/
 title: "学术研究"
 ---
-<br>
 
 ## 博士论文
 
