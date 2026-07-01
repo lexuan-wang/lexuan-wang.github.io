@@ -7,7 +7,7 @@ title: "学术活动"
 
 第十九届政治学与国际关系学术共同体年会期间，组织“人工智能时代的国际政治传播研究”专题研讨。邀请北京大学、外交学院、华东师范大学、北京语言大学、中国传媒大学等高校青年博士生，围绕国际传播再政治化、人工智能治理规范、战略叙事与技术竞争、儒家思想与国际组织等议题展开研讨。中国传媒大学张畅副教授、吉林大学宋国新老师、北京语言大学吴焕琼老师担任评论人。
 
-<img src="/assets/images/ais-poster.jpg" alt="会议海报" style="max-width:450px;width:100%;display:block;margin:1.5em auto;">
+<div style="text-align:center;margin:1.5em 0;"><img src="/assets/images/ais-poster.jpg" alt="会议海报" style="max-width:450px !important;width:100%;"></div>
 
 ---
 
