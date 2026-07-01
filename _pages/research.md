@@ -9,27 +9,28 @@ title: "学术研究"
 
 ## 学术发表
 
-- 荆学民, **王乐轩**. (2025). [论国际传播中平台媒体的政治属性及其地缘政治影响](https://link.cnki.net/doi/10.15937/j.cnki.issn1001-8263.2025.05.008). *南京社会科学*, (5), 77–87. **CSSCI**.（[《中国社会科学文摘》2025年第9期全文转载](https://mp.weixin.qq.com/s/lDl9snEiIfp7v4U0S3JVCg)）
+- 荆学民, **王乐轩**. (2025). **论国际传播中平台媒体的政治属性及其地缘政治影响**. *南京社会科学*, (5), 77–87. CSSCI. [链接](https://link.cnki.net/doi/10.15937/j.cnki.issn1001-8263.2025.05.008){: .btn .btn--small}
+  <small>注：《中国社会科学文摘》2025年第9期全文转载（145–146页）. [链接](https://mp.weixin.qq.com/s/lDl9snEiIfp7v4U0S3JVCg){: .btn .btn--small}</small>
 
-- 荆学民, **王乐轩**. (2025). [信息地缘政治中的权力运行与风险预警](https://kns.cnki.net/kcms2/article/abstract?v=ldCk9GscAdDtVmY-2FqxjA0L3OHKdJz88ofnbFRbHz7lFrCIzwIUJ56A6oeeb4OIyTrc75_IzuAVRDsmHdG9ZQw9HNtFOUT6YWcjcMMxRFj-VwJtv1WB5He0FlJKiaz0vjUCm7XL0biglZ1MBknqBNmcAS1nNyr9yq-dz_-RLQZH3Yko8cuduw==&uniplatform=NZKPT&language=CHS). *社会科学研究*, (1), 56–64. **CSSCI**.
+- 荆学民, **王乐轩**. (2025). **信息地缘政治中的权力运行与风险预警**. *社会科学研究*, (1), 56–64. CSSCI. [链接](https://kns.cnki.net/kcms2/article/abstract?v=ldCk9GscAdDtVmY-2FqxjA0L3OHKdJz88ofnbFRbHz7lFrCIzwIUJ56A6oeeb4OIyTrc75_IzuAVRDsmHdG9ZQw9HNtFOUT6YWcjcMMxRFj-VwJtv1WB5He0FlJKiaz0vjUCm7XL0biglZ1MBknqBNmcAS1nNyr9yq-dz_-RLQZH3Yko8cuduw==&uniplatform=NZKPT&language=CHS){: .btn .btn--small}
 
-- 荆学民, **王乐轩**. (2025). [国际政治传播：概念嬗变与学理解析](https://kns.cnki.net/kcms2/article/abstract?v=ldCk9GscAdACOo2B6RnB7ZTb7SNyijXcSLvuwTXvwCIQgQC32suUX-uZFbKIQKG3XEsWCjFIOatN5yTjCWrXdZA-roaaWbefxkhEvU-xSi8Z159EEDMnbMEGaSw51db5rpCc3wHr-sE7_tnRQplRPeAMdvXFduzb6gmW-zn_Dz2bFMqeggl9YQ==&uniplatform=NZKPT&language=CHS). *新闻传播学刊*, (2), 78–92. **CSSCI 扩展版**.
+- 荆学民, **王乐轩**. (2025). **国际政治传播：概念嬗变与学理解析**. *新闻传播学刊*, (2), 78–92. CSSCI 扩展版. [链接](https://kns.cnki.net/kcms2/article/abstract?v=ldCk9GscAdACOo2B6RnB7ZTb7SNyijXcSLvuwTXvwCIQgQC32suUX-uZFbKIQKG3XEsWCjFIOatN5yTjCWrXdZA-roaaWbefxkhEvU-xSi8Z159EEDMnbMEGaSw51db5rpCc3wHr-sE7_tnRQplRPeAMdvXFduzb6gmW-zn_Dz2bFMqeggl9YQ==&uniplatform=NZKPT&language=CHS){: .btn .btn--small}
 
-- 荆学民, **王乐轩**. (2025). [论政治勇气与政治话语表达——学习《中共中央关于进一步全面深化改革、推进中国式现代化的决定》](https://link.cnki.net/doi/10.16207/j.cnki.1001-5957.20241209.002). *山西师大学报(社会科学版)*, 52(1), 1–7.
+- 荆学民, **王乐轩**. (2025). **论政治勇气与政治话语表达——学习《中共中央关于进一步全面深化改革、推进中国式现代化的决定》**. *山西师大学报(社会科学版)*, 52(1), 1–7. [链接](https://link.cnki.net/doi/10.16207/j.cnki.1001-5957.20241209.002){: .btn .btn--small}
 
-- Zhang, C., & **Wang, L.** (2025). [Virtual worlds, real politics: A cross-national comparative study of metaverse policy approaches](https://doi.org/10.17645/pag.10239). *Politics and Governance, 13*, Article 10239. **SSCI**.
+- Zhang, C., & **Wang, L.** (2025). **Virtual worlds, real politics: A cross-national comparative study of metaverse policy approaches**. *Politics and Governance, 13*, Article 10239. SSCI. [链接](https://doi.org/10.17645/pag.10239){: .btn .btn--small}
 
-- Zhang, C., & **Wang, L.** (2025). [Book review: Platforms, power, and politics: An introduction to political communication in the digital age](https://ijoc.org/index.php/ijoc/article/view/25228/5018). *International Journal of Communication, 19*, 2297–2299. **SSCI**.
+- Zhang, C., & **Wang, L.** (2025). **Book review: Platforms, power, and politics: An introduction to political communication in the digital age**. *International Journal of Communication, 19*, 2297–2299. SSCI. [链接](https://ijoc.org/index.php/ijoc/article/view/25228/5018){: .btn .btn--small}
 
-- 苏颖, **王乐轩**, 高山. (2024). [西方营销式政治传播理论的发展动力解释与整合](https://kns.cnki.net/kcms2/article/abstract?v=ldCk9GscAdDZkBTgHi_p98wzMbiIhiQQOa1aWRXOOQ1pAswSLG0zp4Es0054mVuRITz0Q-DXB-JrkHIq1xs-yAmxdKAMQXQNmcmSUD5cwP72fupEiwHQhVxc0sCA5-symewPrZOezh_hc3S0HFF4Cvuyt4kIrH52eVBKGVMq4cBhtywneq57414sL2z8pBCe&uniplatform=NZKPT&language=CHS). *世界社会科学*, (4), 186–206. **CSSCI**.
+- 苏颖, **王乐轩**, 高山. (2024). **西方营销式政治传播理论的发展动力解释与整合**. *世界社会科学*, (4), 186–206. CSSCI. [链接](https://kns.cnki.net/kcms2/article/abstract?v=ldCk9GscAdDZkBTgHi_p98wzMbiIhiQQOa1aWRXOOQ1pAswSLG0zp4Es0054mVuRITz0Q-DXB-JrkHIq1xs-yAmxdKAMQXQNmcmSUD5cwP72fupEiwHQhVxc0sCA5-symewPrZOezh_hc3S0HFF4Cvuyt4kIrH52eVBKGVMq4cBhtywneq57414sL2z8pBCe&uniplatform=NZKPT&language=CHS){: .btn .btn--small}
 
-- 弗兰克·埃塞尔, **王乐轩** (编译). (2023). [基于情境化与证据积累的比较政治传播研究进展](https://kns.cnki.net/kcms2/article/abstract?v=ldCk9GscAdCCw0rTWb0NMjks-D1mz4aJ10RouZpUnvIqYkoWl-B9uydK3wyCV1bx_H9jBeYCqR4yVXoogIU7_rxCLNBwiRtg3d8HjlxkSrNrAa9L9wWZybyd8xYDfAmtEJR12ro10WgR0dyX_1WO3-80Gme6SkoNFXH1qUHDTh4S5ONWcoY2Ng==&uniplatform=NZKPT&language=CHS). *中国政治传播研究*, (1), 168–173.
+- 弗兰克·埃塞尔, **王乐轩** (编译). (2023). **基于情境化与证据积累的比较政治传播研究进展**. *中国政治传播研究*, (1), 168–173. [链接](https://kns.cnki.net/kcms2/article/abstract?v=ldCk9GscAdCCw0rTWb0NMjks-D1mz4aJ10RouZpUnvIqYkoWl-B9uydK3wyCV1bx_H9jBeYCqR4yVXoogIU7_rxCLNBwiRtg3d8HjlxkSrNrAa9L9wWZybyd8xYDfAmtEJR12ro10WgR0dyX_1WO3-80Gme6SkoNFXH1qUHDTh4S5ONWcoY2Ng==&uniplatform=NZKPT&language=CHS){: .btn .btn--small}
 
 ## 学术评论
 
-- **王乐轩**, 周硕伟. (2026). [面向全球治理的国际组织人才培养——"通往国际组织之路：全球胜任力与人才培养路径的创新与实践"会议综述](https://www.cssn.cn/zkzg/lbt/202601/t20260127_5970936.shtml). *中国社会科学网*, 2026-01-27.
+- **王乐轩**, 周硕伟. (2026). **面向全球治理的国际组织人才培养——"通往国际组织之路：全球胜任力与人才培养路径的创新与实践"会议综述**. *中国社会科学网*, 2026-01-27. [链接](https://www.cssn.cn/zkzg/lbt/202601/t20260127_5970936.shtml){: .btn .btn--small}
 
-- 张畅, **王乐轩**. (2025). [制裁下的突围：从圣彼得堡国际经济论坛透视俄罗斯论坛外交](https://news.qq.com/rain/a/20250725A03F7S00). *腾讯新闻*, 2025-07-25.
+- 张畅, **王乐轩**. (2025). **制裁下的突围：从圣彼得堡国际经济论坛透视俄罗斯论坛外交**. *腾讯新闻*, 2025-07-25. [链接](https://news.qq.com/rain/a/20250725A03F7S00){: .btn .btn--small}
 
 ## 科研项目
 
