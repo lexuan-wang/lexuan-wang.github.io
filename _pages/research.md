@@ -12,7 +12,7 @@ title: "学术研究"
 ## 学术发表
 
 - 荆学民, **王乐轩**. (2025). **论国际传播中平台媒体的政治属性及其地缘政治影响**. *南京社会科学*, (5), 77–87. CSSCI. [链接](https://link.cnki.net/doi/10.15937/j.cnki.issn1001-8263.2025.05.008)<br>
-  注：《中国社会科学文摘》2025年第9期全文转载（145–146页）. [链接](https://mp.weixin.qq.com/s/lDl9snEiIfp7v4U0S3JVCg)
+  （注：《中国社会科学文摘》2025年第9期全文转载，第145–146页）. [链接](https://mp.weixin.qq.com/s/lDl9snEiIfp7v4U0S3JVCg)
 
 - 荆学民, **王乐轩**. (2025). **信息地缘政治中的权力运行与风险预警**. *社会科学研究*, (1), 56–64. CSSCI. [链接](https://kns.cnki.net/kcms2/article/abstract?v=ldCk9GscAdDtVmY-2FqxjA0L3OHKdJz88ofnbFRbHz7lFrCIzwIUJ56A6oeeb4OIyTrc75_IzuAVRDsmHdG9ZQw9HNtFOUT6YWcjcMMxRFj-VwJtv1WB5He0FlJKiaz0vjUCm7XL0biglZ1MBknqBNmcAS1nNyr9yq-dz_-RLQZH3Yko8cuduw==&uniplatform=NZKPT&language=CHS)
 
