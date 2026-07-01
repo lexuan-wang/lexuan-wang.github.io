@@ -1,0 +1,134 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
+@import "minimal-mistakes";
+
+/* ==========================================================================
+   Custom overrides — 中文学术主页样式修正
+   ========================================================================== */
+
+/* 中文字体优先 */
+body,
+h1, h2, h3, h4, h5, h6 {
+  font-family: "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "Noto Sans SC", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+
+/* 导航加粗加深 */
+.masthead__menu-item a {
+  font-weight: 700 !important;
+  color: #000 !important;
+}
+.masthead__menu-item a:hover {
+  color: #000 !important;
+  text-decoration: underline;
+}
+
+/* h2 加粗 + 底部横线 */
+.page__content h2 {
+  font-weight: 700 !important;
+  color: #000 !important;
+  border-bottom: 1.5px solid #ccc;
+  padding-bottom: 0.3em;
+  margin-top: 1.5em;
+}
+
+/* h3 加粗 */
+.page__content h3 {
+  font-weight: 700 !important;
+  color: #111 !important;
+}
+
+/* ★ 根治灰色遮罩：侧边栏始终完全不透明，去掉 hover 淡入淡出 */
+.sidebar {
+  opacity: 1 !important;
+  -webkit-transition: none !important;
+  transition: none !important;
+}
+.sidebar:hover {
+  opacity: 1 !important;
+}
+
+/* 头像始终清晰 */
+.author__avatar img,
+.author__avatar img:hover {
+  transition: none !important;
+  opacity: 1 !important;
+  filter: none !important;
+  -webkit-filter: none !important;
+}
+
+/* 桌面端侧边栏头像：椭圆（保留原图竖向比例，不裁切） */
+@media (min-width: 64em) {
+  .author__avatar img {
+    width: 100% !important;
+    max-width: 200px !important;
+    height: auto !important;
+    border-radius: 50% !important;
+    object-fit: unset !important;
+    aspect-ratio: auto !important;
+  }
+}
+
+/* 窄屏（手机）顶部头像：正圆裁切，自适应 60–80 */
+@media (max-width: 63.99em) {
+  .author__avatar {
+    width: auto !important;
+    height: auto !important;
+  }
+  .author__avatar img {
+    width: clamp(85px, 22vw, 120px) !important;
+    height: clamp(85px, 22vw, 120px) !important;
+    max-width: clamp(85px, 22vw, 120px) !important;
+    border-radius: 50% !important;
+    object-fit: cover !important;
+    object-position: center 25% !important;
+  }
+}
+
+/* 侧边栏链接去掉过渡 */
+.sidebar a,
+.author__urls-wrapper a {
+  transition: none !important;
+}
+.sidebar a:hover,
+.author__urls-wrapper a:hover {
+  background: transparent !important;
+  color: inherit !important;
+}
+
+/* 海报横向滑动画廊 */
+.poster-scroll {
+  display: flex;
+  gap: 14px;
+  overflow-x: auto;
+  padding: 4px 2px 14px;
+  margin: 12px 0 20px;
+  scroll-snap-type: x mandatory;
+  -webkit-overflow-scrolling: touch;
+}
+.poster-scroll img {
+  width: 250px;
+  height: auto;
+  flex: 0 0 auto;
+  scroll-snap-align: start;
+  border: 1px solid #eee;
+  border-radius: 6px;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.1);
+}
+.poster-scroll::-webkit-scrollbar {
+  height: 8px;
+}
+.poster-scroll::-webkit-scrollbar-thumb {
+  background: #ccc;
+  border-radius: 4px;
+}
+
+@media (max-width: 63.99em) {
+  .poster-scroll img {
+    width: 200px;
+  }
+}

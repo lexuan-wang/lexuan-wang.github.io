@@ -1,8 +1,10 @@
 ---
 permalink: /cv/
-title: "简历"
+title: "CV"
 ---
 
-📄 **点击下载学术简历（PDF）**
+<p><a href="/assets/cv.pdf" target="_blank">📄 下载 PDF</a>（若下方无法预览，请点此下载）</p>
 
-[下载简历](/assets/cv.pdf)
+<div style="width:100%;height:85vh;overflow:auto;border:1px solid #ddd;">
+  <iframe src="/assets/cv.pdf" width="100%" height="1200" style="border:none;"></iframe>
+</div>
