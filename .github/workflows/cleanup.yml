@@ -1,0 +1,41 @@
+name: cleanup-deployments
+
+on:
+  schedule:
+    - cron: '17 3 * * 0'  # 每周日 03:17 UTC
+  workflow_dispatch:       # 可手动触发
+
+permissions:
+  deployments: write
+
+jobs:
+  cleanup:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/github-script@v7
+        with:
+          script: |
+            const { data: deployments } = await github.rest.repos.listDeployments({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              per_page: 100,
+            });
+            for (const d of deployments) {
+              try {
+                await github.rest.repos.createDeploymentStatus({
+                  owner: context.repo.owner,
+                  repo: context.repo.repo,
+                  deployment_id: d.id,
+                  state: 'inactive',
+                });
+                await github.rest.repos.deleteDeployment({
+                  owner: context.repo.owner,
+                  repo: context.repo.repo,
+                  deployment_id: d.id,
+                });
+                console.log(`deleted deployment ${d.id}`);
+              } catch (e) {
+                console.log(`skip ${d.id}: ${e.message}`);
+              }
+            }
+            console.log(`done, cleaned ${deployments.length} deployments`);
