@@ -9,7 +9,6 @@ title: "学术活动"
 
 <div style="text-align:center;margin:1.5em 0;"><img src="/assets/images/ais-poster.jpg" alt="会议海报" style="max-width:350px !important;width:100%;"></div>
 
----
 
 ## 学术沙龙与读书会
 
@@ -26,7 +25,6 @@ title: "学术活动"
 
 - **参与** · 文明传播·学术写作研讨（第一期），主题《文明观、历史叙事与世界秩序》。2025 年 12 月，中国传媒大学。
 
----
 
 ## 学术会议参会
 
