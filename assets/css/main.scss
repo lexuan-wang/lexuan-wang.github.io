@@ -142,8 +142,9 @@ h1, h2, h3, h4, h5, h6 {
 .event-gallery {
   display: flex;
   gap: 16px;
-  margin: 1.5em 0;
+  margin: 1.5em auto;
   align-items: stretch;
+  justify-content: center;
 }
 .event-gallery__poster {
   flex: 0 0 auto;
@@ -177,6 +178,7 @@ h1, h2, h3, h4, h5, h6 {
 @media (max-width: 47.99em) {
   .event-gallery {
     flex-direction: column;
+    align-items: center;
   }
   .event-gallery__poster img {
     height: auto;
