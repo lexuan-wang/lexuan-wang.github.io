@@ -148,22 +148,21 @@ h1, h2, h3, h4, h5, h6 {
 .event-gallery__poster {
   flex: 0 0 auto;
   display: flex;
-  align-items: center;
 }
 .event-gallery__poster img {
-  max-width: 260px;
-  width: 100%;
-  height: auto;
+  height: 100%;
+  width: auto;
+  max-width: none;
   border: 1px solid #eee;
   border-radius: 6px;
   box-shadow: 0 1px 4px rgba(0,0,0,0.1);
 }
 .event-gallery__photos {
-  flex: 1 1 auto;
+  flex: 0 0 auto;
+  width: 380px;
   display: flex;
   flex-direction: column;
   gap: 12px;
-  min-width: 0;
 }
 .event-gallery__photos img {
   width: 100%;
@@ -179,7 +178,12 @@ h1, h2, h3, h4, h5, h6 {
     flex-direction: column;
   }
   .event-gallery__poster img {
+    height: auto;
+    width: 100%;
     max-width: 200px;
     margin: 0 auto;
+  }
+  .event-gallery__photos {
+    width: 100%;
   }
 }
