@@ -137,3 +137,49 @@ h1, h2, h3, h4, h5, h6 {
     width: 200px;
   }
 }
+
+/* 海报 + 现场照片：左海报，右两张 3:2 横图堆叠 */
+.event-gallery {
+  display: flex;
+  gap: 16px;
+  margin: 1.5em 0;
+  align-items: stretch;
+}
+.event-gallery__poster {
+  flex: 0 0 auto;
+  display: flex;
+  align-items: center;
+}
+.event-gallery__poster img {
+  max-width: 260px;
+  width: 100%;
+  height: auto;
+  border: 1px solid #eee;
+  border-radius: 6px;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.1);
+}
+.event-gallery__photos {
+  flex: 1 1 auto;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  min-width: 0;
+}
+.event-gallery__photos img {
+  width: 100%;
+  aspect-ratio: 3 / 2;
+  object-fit: cover;
+  border: 1px solid #eee;
+  border-radius: 6px;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.1);
+}
+
+@media (max-width: 47.99em) {
+  .event-gallery {
+    flex-direction: column;
+  }
+  .event-gallery__poster img {
+    max-width: 200px;
+    margin: 0 auto;
+  }
+}
