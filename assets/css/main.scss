@@ -150,7 +150,8 @@ h1, h2, h3, h4, h5, h6 {
   display: flex;
 }
 .event-gallery__poster img {
-  height: 100%;
+  /* 高度与右侧两张 380px 宽、3:2 比例照片叠加后的总高度对齐 */
+  height: calc((380px / 1.5) * 2 + 12px);
   width: auto;
   max-width: none;
   border: 1px solid #eee;
