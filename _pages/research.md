@@ -1,6 +1,9 @@
 ---
 permalink: /research/
 title: "学术研究"
+# 覆盖 _config.yml 里对 _pages 的默认设置：本页保留索引
+noindex: false
+sitemap: true
 ---
 
 ## 博士论文
