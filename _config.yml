@@ -54,3 +54,6 @@ defaults:
       layout: single
       classes: wide
       author_profile: true
+      # 只让首页进搜索结果，子页不索引、不进 sitemap
+      noindex: true
+      sitemap: false
