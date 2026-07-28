@@ -7,3 +7,17 @@ main:
     url: /activities/
   - title: "CV"
     url: /cv/
+  - title: "EN"
+    url: /en/
+
+en:
+  - title: "About"
+    url: /en/about/
+  - title: "Research"
+    url: /en/research/
+  - title: "Activities"
+    url: /en/activities/
+  - title: "CV"
+    url: /en/cv/
+  - title: "中文"
+    url: /

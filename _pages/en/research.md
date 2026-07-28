@@ -4,9 +4,9 @@ title: "Research"
 lang: en
 noindex: false
 sitemap: true
+header:
+  nav: en
 ---
-
-**[中文](/research/)**
 
 ## Doctoral Dissertation
 

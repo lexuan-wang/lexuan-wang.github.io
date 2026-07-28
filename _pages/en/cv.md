@@ -2,9 +2,9 @@
 permalink: /en/cv/
 title: "CV"
 lang: en
+header:
+  nav: en
 ---
-
-**[中文](/cv/)**
 
 <p><i>Note: the CV below is currently only available in Chinese.</i></p>
 

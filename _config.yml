@@ -48,7 +48,7 @@ author:
 
 footer:
   links:
-    - label: "中国知网"
+    - label: "CNKI"
       icon: "fas fa-fw fa-book"
       url: "https://kns.cnki.net/kcms2/author/detail?v=jit-Bskw5eT7LpaD0uqtHuh1JUsMlrzeOAlv0F_jrMuIuzpXuei9_JjUt3hsoc22Mt87Trb2oHXllVBSjLUxObqnJjbmiFzchi6xMCEn2GNDwaN4HQErAGChzdkiHnIG&uniplatform=NZKPT&language=CHS"
     - label: "Google Scholar"
@@ -75,3 +75,25 @@ defaults:
       # 只让首页进搜索结果，子页不索引、不进 sitemap
       noindex: true
       sitemap: false
+  - scope:
+      path: "_pages/en"
+      type: pages
+    values:
+      # 英文版侧边栏：姓名/简介译成英文，不放知网（国内平台，对英文读者意义不大）
+      author:
+        name: "Lexuan Wang"
+        avatar: "/assets/images/bio-photo.jpg"
+        bio: "PhD Student<br>Political Communication Institute<br>School of Government and Public Affairs<br>Communication University of China"
+        links:
+          - label: "Google Scholar"
+            icon: "fas fa-fw fa-graduation-cap"
+            url: "https://scholar.google.com/citations?user=ZvAmIvEAAAAJ&hl=zh-CN"
+          - label: "ResearchGate"
+            icon: "fab fa-fw fa-researchgate"
+            url: "https://www.researchgate.net/profile/Lexuan-Wang-8"
+          - label: "ORCID"
+            icon: "fab fa-fw fa-orcid"
+            url: "https://orcid.org/0009-0007-1991-6579"
+          - label: "Email"
+            icon: "fas fa-fw fa-envelope"
+            url: "mailto:wanglexuan@cuc.edu.cn"

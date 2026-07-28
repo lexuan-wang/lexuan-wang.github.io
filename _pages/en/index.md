@@ -7,9 +7,9 @@ classes: wide
 lang: en
 noindex: false
 sitemap: true
+header:
+  nav: en
 ---
-
-**[中文](/)**
 
 <h2>👋 Welcome</h2>
 
@@ -17,7 +17,7 @@ sitemap: true
 
 <p>My research sits at the intersection of <b>political communication</b> and <b>international communication</b>, with a focus on <b>information geopolitics</b>, <b>forum diplomacy</b>, and <b>party politics and political marketing</b>. I am currently writing my doctoral dissertation on international political communication.</p>
 
-<p>I have published 8 academic papers in journals including <i>南京社会科学</i>, <i>世界社会科学</i>, <i>社会科学研究</i>, <i>Politics and Governance</i>, and the <i>International Journal of Communication</i>. One article was reprinted in full by <i>中国社会科学文摘</i> (Chinese Social Sciences Digest).</p>
+<p>I have published 8 academic papers in journals including <i>Politics and Governance</i> and the <i>International Journal of Communication</i>, as well as <i>南京社会科学</i>, <i>世界社会科学</i>, and <i>社会科学研究</i>. One article was reprinted in full by <i>中国社会科学文摘</i> (Chinese Social Sciences Digest).</p>
 
 <hr>
 
