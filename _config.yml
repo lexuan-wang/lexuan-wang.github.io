@@ -48,12 +48,21 @@ author:
 
 footer:
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope"
-      url: "mailto:wanglexuan@cuc.edu.cn"
+    - label: "中国知网"
+      icon: "fas fa-fw fa-book"
+      url: "https://kns.cnki.net/kcms2/author/detail?v=jit-Bskw5eT7LpaD0uqtHuh1JUsMlrzeOAlv0F_jrMuIuzpXuei9_JjUt3hsoc22Mt87Trb2oHXllVBSjLUxObqnJjbmiFzchi6xMCEn2GNDwaN4HQErAGChzdkiHnIG&uniplatform=NZKPT&language=CHS"
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=ZvAmIvEAAAAJ&hl=zh-CN"
+    - label: "ResearchGate"
+      icon: "fab fa-fw fa-researchgate"
+      url: "https://www.researchgate.net/profile/Lexuan-Wang-8"
     - label: "ORCID"
       icon: "fab fa-fw fa-orcid"
       url: "https://orcid.org/0009-0007-1991-6579"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:wanglexuan@cuc.edu.cn"
 
 defaults:
   - scope:
