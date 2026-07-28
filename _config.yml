@@ -30,7 +30,7 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "博士研究生<br>政治传播研究所<br>政府与公共事务学院<br>中国传媒大学"
   links:
-    - label: "知网"
+    - label: "中国知网"
       icon: "fas fa-fw fa-book"
       url: "https://kns.cnki.net/kcms2/author/detail?v=jit-Bskw5eT7LpaD0uqtHuh1JUsMlrzeOAlv0F_jrMuIuzpXuei9_JjUt3hsoc22Mt87Trb2oHXllVBSjLUxObqnJjbmiFzchi6xMCEn2GNDwaN4HQErAGChzdkiHnIG&uniplatform=NZKPT&language=CHS"
     - label: "Google Scholar"
