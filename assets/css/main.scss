@@ -191,17 +191,7 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
-/* 导航栏语言切换：加边框做成按钮样式，跟普通导航项区分开 */
-.masthead__menu-item--lang a.lang-switch {
-  border: 1px solid #bbb;
-  border-radius: 4px;
-  padding: 0.25em 0.7em !important;
-  font-weight: 600 !important;
-}
-.masthead__menu-item--lang a.lang-switch:hover {
-  border-color: #000;
-  text-decoration: none !important;
-}
+/* 导航栏语言切换：不加边框，与其他导航项对齐，仅用图标区分 */
 .masthead__menu-item--lang .fa-language {
   margin-right: 0.3em;
 }
