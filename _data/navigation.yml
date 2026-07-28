@@ -7,8 +7,12 @@ main:
     url: /activities/
   - title: "CV"
     url: /cv/
-  - title: "EN"
-    url: /en/
+  - title: "🌐"
+    children:
+      - title: "中文"
+        url: /
+      - title: "English"
+        url: /en/
 
 en:
   - title: "About"
@@ -19,5 +23,9 @@ en:
     url: /en/activities/
   - title: "CV"
     url: /en/cv/
-  - title: "中文"
-    url: /
+  - title: "🌐"
+    children:
+      - title: "中文"
+        url: /
+      - title: "English"
+        url: /en/
