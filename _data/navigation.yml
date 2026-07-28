@@ -1,3 +1,4 @@
+# 语言切换链接由 _includes/masthead.html 自动生成，不写在这里
 main:
   - title: "关于"
     url: /about/
@@ -7,12 +8,6 @@ main:
     url: /activities/
   - title: "CV"
     url: /cv/
-  - title: "🌐"
-    children:
-      - title: "中文"
-        url: /
-      - title: "English"
-        url: /en/
 
 en:
   - title: "About"
@@ -23,9 +18,3 @@ en:
     url: /en/activities/
   - title: "CV"
     url: /en/cv/
-  - title: "🌐"
-    children:
-      - title: "中文"
-        url: /
-      - title: "English"
-        url: /en/

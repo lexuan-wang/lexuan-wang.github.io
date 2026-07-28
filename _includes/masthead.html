@@ -1,0 +1,62 @@
+{% assign locale = include.locale | default: site.locale %}
+{% capture logo_path %}{{ site.logo }}{% endcapture %}
+
+{%- comment -%}
+  中英双语：按页面路径自动切换整套导航栏、站点标题与语言切换链接。
+  /en/xxx/ 走英文导航，其余走中文导航；切换链接指向同一页面的另一语言版本。
+{%- endcomment -%}
+{%- if page.url contains '/en/' -%}
+  {%- assign nav_data = site.data.navigation.en -%}
+  {%- assign masthead_title = "Lexuan Wang" -%}
+  {%- assign lang_label = "中文" -%}
+  {%- assign lang_url = page.url | remove_first: '/en' -%}
+  {%- if lang_url == '' -%}{%- assign lang_url = '/' -%}{%- endif -%}
+{%- else -%}
+  {%- assign nav_data = site.data.navigation.main -%}
+  {%- assign masthead_title = site.masthead_title | default: site.title -%}
+  {%- assign lang_label = "English" -%}
+  {%- assign lang_url = '/en' | append: page.url -%}
+{%- endif -%}
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav" aria-label="Primary navigation">
+        {% unless logo_path == empty %}
+          <a class="site-logo" href="{{ '/' | relative_url }}"><img src="{{ logo_path | relative_url }}" alt="{{ masthead_title }}"></a>
+        {% endunless %}
+        <a class="site-title" href="{{ lang_url | default: '/' | relative_url }}">
+          {{ masthead_title | escape_once | strip }}
+          {% if site.subtitle %}<span class="site-subtitle">{{ site.subtitle | escape_once | strip }}</span>{% endif %}
+        </a>
+        <ul class="visible-links">
+          {%- for link in nav_data -%}
+            <li class="masthead__menu-item">
+              <a
+                href="{{ link.url | relative_url }}"
+                {% if link.description %} title="{{ link.description }}"{% endif %}
+                {% if link.target %} target="{{ link.target }}"{% endif %}
+              >{{ link.title }}</a>
+            </li>
+          {%- endfor -%}
+          <li class="masthead__menu-item masthead__menu-item--lang">
+            <a href="{{ lang_url | relative_url }}" class="lang-switch">
+              <i class="fas fa-language" aria-hidden="true"></i> {{ lang_label }}
+            </a>
+          </li>
+        </ul>
+        {% if site.search == true %}
+        <button class="search__toggle" type="button">
+          <span class="visually-hidden">{{ site.data.ui-text[locale].search_label | default: "Toggle search" }}</span>
+          <i class="fas fa-search"></i>
+        </button>
+        {% endif %}
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">{{ site.data.ui-text[locale].menu_label | default: "Toggle menu" }}</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
