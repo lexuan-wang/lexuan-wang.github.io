@@ -32,7 +32,7 @@ author:
   links:
     - label: "中国知网"
       icon: "fas fa-fw fa-book"
-      url: "https://kns.cnki.net/kcms2/author/detail?v=jit-Bskw5eT7LpaD0uqtHuh1JUsMlrzeOAlv0F_jrMuIuzpXuei9_JjUt3hsoc22Mt87Trb2oHXllVBSjLUxObqnJjbmiFzchi6xMCEn2GNDwaN4HQErAGChzdkiHnIG&uniplatform=NZKPT&language=CHS"
+      url: "https://au.cnki.net/author/personalInfo/000064367709?platform=kns-author"
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=ZvAmIvEAAAAJ&hl=zh-CN"
@@ -50,7 +50,7 @@ footer:
   links:
     - label: "CNKI"
       icon: "fas fa-fw fa-book"
-      url: "https://kns.cnki.net/kcms2/author/detail?v=jit-Bskw5eT7LpaD0uqtHuh1JUsMlrzeOAlv0F_jrMuIuzpXuei9_JjUt3hsoc22Mt87Trb2oHXllVBSjLUxObqnJjbmiFzchi6xMCEn2GNDwaN4HQErAGChzdkiHnIG&uniplatform=NZKPT&language=CHS"
+      url: "https://au.cnki.net/author/personalInfo/000064367709?platform=kns-author"
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=ZvAmIvEAAAAJ&hl=zh-CN"
