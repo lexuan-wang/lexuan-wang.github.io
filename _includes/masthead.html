@@ -2,19 +2,22 @@
 {% capture logo_path %}{{ site.logo }}{% endcapture %}
 
 {%- comment -%}
-  中英双语：按页面路径自动切换整套导航栏、站点标题与语言切换链接。
-  英文页地址为 /en/（首页）与 /xxx/en/（子页），切换链接指向同一页面的另一语言版本。
+  中英双语：按页面路径切换整套导航栏、站点标题与语言入口。
+  英文页地址为 /en/（首页）与 /xxx/en/（子页）；
+  语言按钮跳转到另一语言的首页，站点标题跳转到当前语言的首页。
 {%- endcomment -%}
-{%- if page.url == '/en/' or page.url contains '/en/' -%}
+{%- if page.url contains '/en/' -%}
   {%- assign nav_data = site.data.navigation.en -%}
   {%- assign masthead_title = "Lexuan Wang" -%}
+  {%- assign home_url = '/en/' -%}
   {%- assign lang_label = "中文" -%}
-  {%- assign lang_url = page.url | remove: 'en/' -%}
+  {%- assign lang_url = '/' -%}
 {%- else -%}
   {%- assign nav_data = site.data.navigation.main -%}
   {%- assign masthead_title = site.masthead_title | default: site.title -%}
+  {%- assign home_url = '/' -%}
   {%- assign lang_label = "English" -%}
-  {%- assign lang_url = page.url | append: 'en/' -%}
+  {%- assign lang_url = '/en/' -%}
 {%- endif -%}
 
 <div class="masthead">
@@ -22,9 +25,9 @@
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav" aria-label="Primary navigation">
         {% unless logo_path == empty %}
-          <a class="site-logo" href="{{ '/' | relative_url }}"><img src="{{ logo_path | relative_url }}" alt="{{ masthead_title }}"></a>
+          <a class="site-logo" href="{{ home_url | relative_url }}"><img src="{{ logo_path | relative_url }}" alt="{{ masthead_title }}"></a>
         {% endunless %}
-        <a class="site-title" href="{{ lang_url | default: '/' | relative_url }}">
+        <a class="site-title" href="{{ home_url | relative_url }}">
           {{ masthead_title | escape_once | strip }}
           {% if site.subtitle %}<span class="site-subtitle">{{ site.subtitle | escape_once | strip }}</span>{% endif %}
         </a>
