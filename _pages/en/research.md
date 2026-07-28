@@ -1,6 +1,7 @@
 ---
 permalink: /research/en/
 title: "Research"
+description: "Publications and research projects of Lexuan Wang on international political communication, information geopolitics, forum diplomacy, and political marketing."
 locale: en-US
 noindex: false
 sitemap: true

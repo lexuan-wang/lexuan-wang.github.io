@@ -1,6 +1,7 @@
 ---
 permalink: /activities/en/
 title: "Academic Activities"
+description: "Conferences, panels, academic salons and reading groups organised or attended by Lexuan Wang in political and international communication."
 locale: en-US
 ---
 

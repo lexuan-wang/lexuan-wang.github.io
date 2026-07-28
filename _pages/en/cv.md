@@ -1,6 +1,7 @@
 ---
 permalink: /cv/en/
 title: "CV"
+description: "Curriculum vitae of Lexuan Wang, PhD student in political communication at Communication University of China."
 locale: en-US
 ---
 

@@ -1,6 +1,7 @@
 ---
 permalink: /about/en/
 title: "About"
+description: "About Lexuan Wang, PhD student in political communication at the Political Communication Institute, Communication University of China."
 locale: en-US
 ---
 
