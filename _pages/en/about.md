@@ -1,5 +1,5 @@
 ---
-permalink: /en/about/
+permalink: /about/en/
 title: "About"
 lang: en
 header:
@@ -26,4 +26,4 @@ I have published 8 academic papers in journals including *Politics and Governanc
 
 ---
 
-*Academic CV [available here](/en/cv/) (June 2026).*
+*Academic CV [available here](/cv/en/) (June 2026).*

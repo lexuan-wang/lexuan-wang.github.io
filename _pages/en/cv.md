@@ -1,5 +1,5 @@
 ---
-permalink: /en/cv/
+permalink: /cv/en/
 title: "CV"
 lang: en
 header:

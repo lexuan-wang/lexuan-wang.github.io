@@ -3,19 +3,18 @@
 
 {%- comment -%}
   中英双语：按页面路径自动切换整套导航栏、站点标题与语言切换链接。
-  /en/xxx/ 走英文导航，其余走中文导航；切换链接指向同一页面的另一语言版本。
+  英文页地址为 /en/（首页）与 /xxx/en/（子页），切换链接指向同一页面的另一语言版本。
 {%- endcomment -%}
-{%- if page.url contains '/en/' -%}
+{%- if page.url == '/en/' or page.url contains '/en/' -%}
   {%- assign nav_data = site.data.navigation.en -%}
   {%- assign masthead_title = "Lexuan Wang" -%}
   {%- assign lang_label = "中文" -%}
-  {%- assign lang_url = page.url | remove_first: '/en' -%}
-  {%- if lang_url == '' -%}{%- assign lang_url = '/' -%}{%- endif -%}
+  {%- assign lang_url = page.url | remove: 'en/' -%}
 {%- else -%}
   {%- assign nav_data = site.data.navigation.main -%}
   {%- assign masthead_title = site.masthead_title | default: site.title -%}
   {%- assign lang_label = "English" -%}
-  {%- assign lang_url = '/en' | append: page.url -%}
+  {%- assign lang_url = page.url | append: 'en/' -%}
 {%- endif -%}
 
 <div class="masthead">

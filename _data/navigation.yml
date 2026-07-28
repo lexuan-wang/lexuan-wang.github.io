@@ -11,10 +11,10 @@ main:
 
 en:
   - title: "About"
-    url: /en/about/
+    url: /about/en/
   - title: "Research"
-    url: /en/research/
+    url: /research/en/
   - title: "Activities"
-    url: /en/activities/
+    url: /activities/en/
   - title: "CV"
-    url: /en/cv/
+    url: /cv/en/

@@ -1,5 +1,5 @@
 ---
-permalink: /en/activities/
+permalink: /activities/en/
 title: "Academic Activities"
 lang: en
 header:

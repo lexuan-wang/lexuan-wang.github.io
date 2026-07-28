@@ -1,5 +1,5 @@
 ---
-permalink: /en/research/
+permalink: /research/en/
 title: "Research"
 lang: en
 noindex: false
