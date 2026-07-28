@@ -4,11 +4,9 @@ title: "Home"
 layout: single
 author_profile: true
 classes: wide
-lang: en
+locale: en-US
 noindex: false
 sitemap: true
-header:
-  nav: en
 ---
 
 <h2>👋 Welcome</h2>

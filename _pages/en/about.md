@@ -1,9 +1,7 @@
 ---
 permalink: /about/en/
 title: "About"
-lang: en
-header:
-  nav: en
+locale: en-US
 ---
 
 I am a PhD student at the Political Communication Institute, School of Government and Public Affairs, Communication University of China. My research lies at the intersection of **political communication** and **international communication**, with a focus on **information geopolitics**, **forum diplomacy**, and **party politics and political marketing**.

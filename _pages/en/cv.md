@@ -1,9 +1,7 @@
 ---
 permalink: /cv/en/
 title: "CV"
-lang: en
-header:
-  nav: en
+locale: en-US
 ---
 
 <p><a href="/assets/cv-en.pdf" target="_blank">📄 Download PDF</a> (click here if the preview below doesn't load)</p>

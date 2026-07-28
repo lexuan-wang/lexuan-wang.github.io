@@ -1,9 +1,7 @@
 ---
 permalink: /activities/en/
 title: "Academic Activities"
-lang: en
-header:
-  nav: en
+locale: en-US
 ---
 
 ## Panel on "International Political Communication in the Age of Artificial Intelligence"

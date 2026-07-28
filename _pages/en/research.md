@@ -1,11 +1,9 @@
 ---
 permalink: /research/en/
 title: "Research"
-lang: en
+locale: en-US
 noindex: false
 sitemap: true
-header:
-  nav: en
 ---
 
 ## Doctoral Dissertation
