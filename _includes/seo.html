@@ -141,7 +141,7 @@
   仅对以 / 结尾的常规页面输出，排除 404.html 等无对应语言版本的文件。
 {%- endcomment -%}
 {%- assign url_last_char = page.url | slice: -1 -%}
-{%- if url_last_char == '/' -%}
+{%- if url_last_char == '/' and page.hreflang != false -%}
   {%- if page.url contains '/en/' -%}
     {%- assign zh_path = page.url | remove: 'en/' -%}
     {%- assign en_path = page.url -%}
