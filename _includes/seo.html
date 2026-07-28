@@ -8,13 +8,17 @@
 {%- endcomment -%}
 {%- if page.url contains '/en/' -%}
   {%- assign site_name = "Lexuan Wang" -%}
-  {%- assign site_desc = "Lexuan Wang (王乐轩) is a PhD student in political communication at the Political Communication Institute, Communication University of China. Research on international political communication, information geopolitics, forum diplomacy, and political marketing." -%}
+  {%- assign site_desc = "Lexuan Wang (王乐轩) is a PhD student in political communication at the Institute of Political Communication Studies, Communication University of China. Research on international political communication, information geopolitics, forum diplomacy, and political marketing." -%}
 {%- else -%}
   {%- assign site_name = site.title -%}
   {%- assign site_desc = site.description -%}
 {%- endif -%}
 
-{%- assign page_title = page.title | default: site_name | replace: '|', '&#124;' -%}
+{%- comment -%}
+  page.seo_title 只影响 <title>，不影响页面上显示的大标题，
+  便于首页在页内不显示 H1 的同时，给搜索引擎一个含关键词的完整标题。
+{%- endcomment -%}
+{%- assign page_title = page.seo_title | default: page.title | default: site_name | replace: '|', '&#124;' -%}
 {%- if page_title contains site_name -%}
   {%- assign seo_title = page_title | replace: '|', '&#124;' -%}
 {%- else -%}

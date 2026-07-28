@@ -1,11 +1,11 @@
 ---
 permalink: /about/en/
 title: "About"
-description: "About Lexuan Wang, PhD student in political communication at the Political Communication Institute, Communication University of China."
+description: "About Lexuan Wang, PhD student in political communication at the Institute of Political Communication Studies, Communication University of China."
 locale: en-US
 ---
 
-I am a PhD student at the Political Communication Institute, School of Government and Public Affairs, Communication University of China. My research lies at the intersection of **political communication** and **international communication**, with a focus on **information geopolitics**, **forum diplomacy**, and **party politics and political marketing**.
+I am a PhD student at the Institute of Political Communication Studies, School of Government and Public Affairs, Communication University of China. My research lies at the intersection of **political communication** and **international communication**, with a focus on **information geopolitics**, **forum diplomacy**, and **party politics and political marketing**.
 
 I have published 8 academic papers in journals including *Politics and Governance* and the *International Journal of Communication*, as well as *南京社会科学*, *世界社会科学*, and *社会科学研究*, with one article reprinted in full by *中国社会科学文摘* (Chinese Social Sciences Digest). I have also participated in several key and general projects funded by the National Social Science Fund of China.
 
@@ -18,8 +18,8 @@ I have published 8 academic papers in journals including *Politics and Governanc
 
 ## Education
 
-- **2024–present** &nbsp; PhD in Communication, Political Communication Institute, School of Government and Public Affairs, Communication University of China
-- **2021–2024** &nbsp; M.A. in Political Science, Political Communication Institute, School of Government and Public Affairs, Communication University of China
+- **2024–present** &nbsp; PhD in Communication, Institute of Political Communication Studies, School of Government and Public Affairs, Communication University of China
+- **2021–2024** &nbsp; M.A. in Political Science, Institute of Political Communication Studies, School of Government and Public Affairs, Communication University of China
 - **2017–2021** &nbsp; B.A. in International Politics, School of Political Science and Law, University of Jinan
 
 

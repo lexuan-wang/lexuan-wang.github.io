@@ -83,7 +83,7 @@ defaults:
       author:
         name: "Lexuan Wang"
         avatar: "/assets/images/bio-photo.jpg"
-        bio: "PhD Student<br>Political Communication Institute<br>School of Government and Public Affairs<br>Communication University of China"
+        bio: "PhD Student<br>Institute of Political Communication Studies<br>School of Government and Public Affairs<br>Communication University of China"
         links:
           - label: "Google Scholar"
             icon: "fas fa-fw fa-graduation-cap"
