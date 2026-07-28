@@ -31,5 +31,3 @@ citation:
 ---
 
 [📄 阅读原文](https://link.cnki.net/doi/10.15937/j.cnki.issn1001-8263.2025.05.008)
-
-[← 返回学术研究](/research/)

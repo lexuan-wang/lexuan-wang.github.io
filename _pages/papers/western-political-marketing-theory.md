@@ -27,5 +27,3 @@ citation:
 ---
 
 [📄 阅读原文](https://kns.cnki.net/kcms2/article/abstract?v=ldCk9GscAdDZkBTgHi_p98wzMbiIhiQQOa1aWRXOOQ1pAswSLG0zp4Es0054mVuRITz0Q-DXB-JrkHIq1xs-yAmxdKAMQXQNmcmSUD5cwP72fupEiwHQhVxc0sCA5-symewPrZOezh_hc3S0HFF4Cvuyt4kIrH52eVBKGVMq4cBhtywneq57414sL2z8pBCe&uniplatform=NZKPT&language=CHS)
-
-[← 返回学术研究](/research/)
