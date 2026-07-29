@@ -203,7 +203,15 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
-/* 收紧正文与页脚之间的空白（主题默认 3em 偏大） */
+/* 收紧正文与页脚之间的空白 */
 .page__footer {
   margin-top: 1.5em;
+}
+/* 空的标签/分类容器仍占 24px 上边距，页面无标签时收掉 */
+.page__meta:empty {
+  margin-top: 0;
+}
+/* 正文最后一个元素的下边距不再叠加到页脚间距上 */
+.page__content > *:last-child {
+  margin-bottom: 0;
 }
