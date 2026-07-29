@@ -202,3 +202,8 @@ h1, h2, h3, h4, h5, h6 {
     font-size: 20px;
   }
 }
+
+/* 收紧正文与页脚之间的空白（主题默认 3em 偏大） */
+.page__footer {
+  margin-top: 1.5em;
+}
