@@ -58,4 +58,4 @@ title: "学术活动"
   
 ---
 
-*欢迎学术合作： [wanglexuan@cuc.edu.cn](mailto:wanglexuan@cuc.edu.cn)*
+*📧 欢迎学术合作： [wanglexuan@cuc.edu.cn](mailto:wanglexuan@cuc.edu.cn)*

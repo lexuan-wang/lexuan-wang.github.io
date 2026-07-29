@@ -44,4 +44,4 @@ sitemap: true
 
 ---
 
-*欢迎学术合作： [wanglexuan@cuc.edu.cn](mailto:wanglexuan@cuc.edu.cn)*
+*📧 欢迎学术合作： [wanglexuan@cuc.edu.cn](mailto:wanglexuan@cuc.edu.cn)*

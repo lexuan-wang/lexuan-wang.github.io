@@ -45,4 +45,4 @@ My doctoral dissertation focuses on **international political communication**, e
 
 ---
 
-*Academic collaboration inquiries welcome: [wanglexuan@cuc.edu.cn](mailto:wanglexuan@cuc.edu.cn)*
+*📧 Academic collaboration inquiries welcome: [wanglexuan@cuc.edu.cn](mailto:wanglexuan@cuc.edu.cn)*

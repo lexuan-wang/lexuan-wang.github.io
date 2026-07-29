@@ -60,4 +60,4 @@ Organized the panel "International Political Communication in the Age of Artific
 
 ---
 
-*Academic collaboration inquiries welcome: [wanglexuan@cuc.edu.cn](mailto:wanglexuan@cuc.edu.cn)*
+*📧 Academic collaboration inquiries welcome: [wanglexuan@cuc.edu.cn](mailto:wanglexuan@cuc.edu.cn)*
