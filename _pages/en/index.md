@@ -10,7 +10,7 @@ noindex: false
 sitemap: true
 ---
 
-<h2>👋 Welcome</h2>
+<h1>👋 Welcome</h1>
 
 <p>I am Lexuan Wang (王乐轩), a PhD student at the Institute of Political Communication Studies, School of Government and Public Affairs, Communication University of China.</p>
 

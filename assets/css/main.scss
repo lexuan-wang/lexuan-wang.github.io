@@ -203,15 +203,27 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
-/* 收紧正文与页脚之间的空白 */
-.page__footer {
-  margin-top: 1.5em;
+/* --------------------------------------------------------------
+   正文末尾与页脚的间距：让「分隔线→末行」和「末行→页脚」对称
+   -------------------------------------------------------------- */
+/* 分隔线上下各留 2em，其下方间距即为末行之上的留白 */
+.page__content hr {
+  margin: 2em 0;
 }
-/* 空的标签/分类容器仍占 24px 上边距，页面无标签时收掉 */
-.page__meta:empty {
-  margin-top: 0;
-}
-/* 正文最后一个元素的下边距不再叠加到页脚间距上 */
+/* 末行自身的下边距归零，避免与页脚间距叠加 */
 .page__content > *:last-child {
-  margin-bottom: 0;
+  margin-bottom: 0 !important;
+}
+/* 未使用标签时该容器为空，其 24px 上边距无意义 */
+.page__meta {
+  margin-top: 0 !important;
+}
+/* 末行到黑色页脚 = 2em，与分隔线到末行等距 */
+.page__footer {
+  margin-top: 2em;
+}
+/* 页脚内部上下留白加大且保持对称 */
+.page__footer > footer {
+  margin-top: 2.4em;
+  padding-bottom: 2.4em;
 }
