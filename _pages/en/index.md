@@ -1,7 +1,7 @@
 ---
 permalink: /en/
 seo_title: "Lexuan Wang | Political Communication Researcher"
-description: "Lexuan Wang (王乐轩), PhD student in political communication at Communication University of China. Research on international political communication, information geopolitics, and forum diplomacy."
+description: "Lexuan Wang (王乐轩), PhD student in political communication at Communication University of China. Research on international political communication, information geopolitics, and platform securitization."
 layout: single
 author_profile: true
 classes: wide
@@ -14,7 +14,7 @@ sitemap: true
 
 <p>I am Lexuan Wang (王乐轩), a PhD student at the Institute of Political Communication Studies, School of Government and Public Affairs, Communication University of China.</p>
 
-<p>My research sits at the intersection of <b>political communication</b> and <b>international communication</b>, with a focus on <b>information geopolitics</b>, <b>forum diplomacy</b>, and <b>party politics and political marketing</b>. I am currently writing my doctoral dissertation on international political communication.</p>
+<p>My research sits at the intersection of <b>political communication</b> and <b>international communication</b>, with a focus on <b>information geopolitics</b>, <b>platform securitization</b>, and <b>party politics and political marketing</b>. I am currently writing my doctoral dissertation on international political communication.</p>
 
 <p>I have published 8 academic papers in journals including <i>Politics and Governance</i> and the <i>International Journal of Communication</i>, as well as <i>南京社会科学</i>, <i>世界社会科学</i>, and <i>社会科学研究</i>. One article was reprinted in full by <i>中国社会科学文摘</i> (Chinese Social Sciences Digest).</p>
 
@@ -23,7 +23,7 @@ sitemap: true
 <h3>🔬 Research Areas</h3>
 <ul>
   <li><b>Information Geopolitics</b> — power struggles, platform politics, and geopolitical influence in the digital age</li>
-  <li><b>Forum Diplomacy</b> — norm reshaping and discursive competition in multilateral diplomatic forums</li>
+  <li><b>Platform Securitization</b> — how digital platforms are framed as security threats, and the discursive politics involved</li>
   <li><b>Party Politics and Political Marketing</b> — comparative perspectives on political communication models</li>
   <li><b>Theories of International Political Communication</b> — conceptual history, disciplinary boundaries, and theory-building</li>
 </ul>
