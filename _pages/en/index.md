@@ -1,7 +1,7 @@
 ---
 permalink: /en/
 seo_title: "Lexuan Wang | Political Communication Researcher"
-description: "Lexuan Wang (王乐轩), PhD student in political communication at Communication University of China. Research on international political communication, information geopolitics, and platform securitization."
+description: "Lexuan Wang (王乐轩), Ph.D. candidate in political communication at Communication University of China. Research on international political communication, information geopolitics, and platform securitization."
 layout: single
 author_profile: true
 classes: wide
@@ -12,7 +12,7 @@ sitemap: true
 
 <h1>👋 Welcome</h1>
 
-<p>I am Lexuan Wang (王乐轩), a PhD student at the Institute of Political Communication Studies, School of Government and Public Affairs, Communication University of China.</p>
+<p>I am Lexuan Wang (王乐轩), a Ph.D. candidate at the Institute of Political Communication Studies, School of Government and Public Affairs, Communication University of China.</p>
 
 <p>My research sits at the intersection of <b>political communication</b> and <b>international communication</b>, with a focus on <b>information geopolitics</b>, <b>platform securitization</b>, and <b>party politics and political marketing</b>. I am currently writing my doctoral dissertation on international political communication.</p>
 
