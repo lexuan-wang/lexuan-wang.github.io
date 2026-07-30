@@ -1,6 +1,6 @@
 ---
 permalink: /en/
-seo_title: "Lexuan Wang | Political Communication Researcher"
+seo_title: "Lexuan Wang — Communication University of China"
 description: "Lexuan Wang (王乐轩), Ph.D. candidate in political communication at Communication University of China. Research on international political communication, information geopolitics, and platform securitization."
 layout: single
 author_profile: true
