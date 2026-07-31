@@ -16,7 +16,7 @@ My doctoral dissertation focuses on **international political communication**, e
 - Jing, X., & **Wang, L.** (2025). **On the Political Nature of Platform Media in International Communication and Its Geopolitical Implications**. *南京社会科学*, (5), 77–87. CSSCI. [[Link]](https://mp.weixin.qq.com/s/kAGEBl38V7Cjq0VCwVy99A)<br>
   (Note: Reprinted in full in *中国社会科学文摘* (Chinese Social Sciences Digest), Issue 9, 2025, pp. 145–146) [[Link]](https://mp.weixin.qq.com/s/lDl9snEiIfp7v4U0S3JVCg)
 
-- Jing, X., & **Wang, L.** (2025). **Power Dynamics and Risk Warning in Information Geopolitics**. *社会科学研究*, (1), 56–64. CSSCI. [[Link]](https://mp.weixin.qq.com/s/sIfJUFb7ZzQi05CwXgaxpA)
+- Jing, X., & **Wang, L.** (2025). **Power Dynamics and Risk Warning in Information Geopolitics**. *社会科学研究*, (1), 56–64. CSSCI. [[Link]](http://shkxyj.ijournals.cn/ch/reader/view_abstract.aspx?file_no=20250106)
 
 - Jing, X., & **Wang, L.** (2025). **International Political Communication: Conceptual Evolution and Theoretical Analysis**. *新闻传播学刊*, (2), 78–92. Extended CSSCI. [[Link]](https://mp.weixin.qq.com/s/uh2zgiv6XAPLCnCx63mdHA)
 
