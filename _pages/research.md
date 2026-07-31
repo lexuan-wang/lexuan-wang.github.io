@@ -15,7 +15,7 @@ sitemap: true
 - 荆学民, **王乐轩**. (2025). **论国际传播中平台媒体的政治属性及其地缘政治影响**. *南京社会科学*, (5), 77–87. CSSCI. [[链接]](https://link.cnki.net/doi/10.15937/j.cnki.issn1001-8263.2025.05.008)<br>
   （注：《中国社会科学文摘》2025年第9期全文转载，第145–146页）[[链接]](https://mp.weixin.qq.com/s/lDl9snEiIfp7v4U0S3JVCg)
 
-- 荆学民, **王乐轩**. (2025). **信息地缘政治中的权力运行与风险预警**. *社会科学研究*, (1), 56–64. CSSCI. [[链接]](https://kns.cnki.net/kcms2/article/abstract?v=ldCk9GscAdDtVmY-2FqxjA0L3OHKdJz88ofnbFRbHz7lFrCIzwIUJ56A6oeeb4OIyTrc75_IzuAVRDsmHdG9ZQw9HNtFOUT6YWcjcMMxRFj-VwJtv1WB5He0FlJKiaz0vjUCm7XL0biglZ1MBknqBNmcAS1nNyr9yq-dz_-RLQZH3Yko8cuduw==&uniplatform=NZKPT&language=CHS)
+- 荆学民, **王乐轩**. (2025). **信息地缘政治中的权力运行与风险预警**. *社会科学研究*, (1), 56–64. CSSCI. [[知网]](https://kns.cnki.net/kcms2/article/abstract?v=ldCk9GscAdDtVmY-2FqxjA0L3OHKdJz88ofnbFRbHz7lFrCIzwIUJ56A6oeeb4OIyTrc75_IzuAVRDsmHdG9ZQw9HNtFOUT6YWcjcMMxRFj-VwJtv1WB5He0FlJKiaz0vjUCm7XL0biglZ1MBknqBNmcAS1nNyr9yq-dz_-RLQZH3Yko8cuduw==&uniplatform=NZKPT&language=CHS) [[全文]](https://mp.weixin.qq.com/s?__biz=MzI2NjI3MjE3MA==&mid=2247522692&idx=1&sn=99a21e48b5064523f593dd8f5c000aac&chksm=eb9e53eef88274ef5e3c5fe3c3a88b22b376d88beba11c28f4a574fa401acf0d4c90e5b054c1&scene=27)
 
 - 荆学民, **王乐轩**. (2025). **国际政治传播：概念嬗变与学理解析**. *新闻传播学刊*, (2), 78–92. CSSCI 扩展版. [[链接]](https://kns.cnki.net/kcms2/article/abstract?v=ldCk9GscAdACOo2B6RnB7ZTb7SNyijXcSLvuwTXvwCIQgQC32suUX-uZFbKIQKG3XEsWCjFIOatN5yTjCWrXdZA-roaaWbefxkhEvU-xSi8Z159EEDMnbMEGaSw51db5rpCc3wHr-sE7_tnRQplRPeAMdvXFduzb6gmW-zn_Dz2bFMqeggl9YQ==&uniplatform=NZKPT&language=CHS)
 
