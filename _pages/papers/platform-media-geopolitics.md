@@ -30,4 +30,4 @@ citation:
 
 ---
 
-[📄 阅读原文](https://mp.weixin.qq.com/s/kAGEBl38V7Cjq0VCwVy99A)
+[📄 阅读全文](https://mp.weixin.qq.com/s/kAGEBl38V7Cjq0VCwVy99A) · [知网页面](https://link.cnki.net/doi/10.15937/j.cnki.issn1001-8263.2025.05.008)

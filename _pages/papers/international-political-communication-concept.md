@@ -25,4 +25,4 @@ citation:
 
 ---
 
-[📄 阅读原文](https://mp.weixin.qq.com/s/uh2zgiv6XAPLCnCx63mdHA)
+[📄 阅读全文](https://mp.weixin.qq.com/s/uh2zgiv6XAPLCnCx63mdHA) · [知网页面](https://kns.cnki.net/kcms2/article/abstract?v=ldCk9GscAdACOo2B6RnB7ZTb7SNyijXcSLvuwTXvwCIQgQC32suUX-uZFbKIQKG3XEsWCjFIOatN5yTjCWrXdZA-roaaWbefxkhEvU-xSi8Z159EEDMnbMEGaSw51db5rpCc3wHr-sE7_tnRQplRPeAMdvXFduzb6gmW-zn_Dz2bFMqeggl9YQ==&uniplatform=NZKPT&language=CHS)
