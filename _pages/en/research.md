@@ -13,22 +13,22 @@ My doctoral dissertation focuses on **international political communication**, e
 
 ## Publications
 
-- Jing, X., & **Wang, L.** (2025). **On the Political Nature of Platform Media in International Communication and Its Geopolitical Implications**. *南京社会科学*, (5), 77–87. CSSCI. [[Link]](https://link.cnki.net/doi/10.15937/j.cnki.issn1001-8263.2025.05.008)<br>
+- Jing, X., & **Wang, L.** (2025). **On the Political Nature of Platform Media in International Communication and Its Geopolitical Implications**. *南京社会科学*, (5), 77–87. CSSCI. [[Link]](https://mp.weixin.qq.com/s/kAGEBl38V7Cjq0VCwVy99A)<br>
   (Note: Reprinted in full in *中国社会科学文摘* (Chinese Social Sciences Digest), Issue 9, 2025, pp. 145–146) [[Link]](https://mp.weixin.qq.com/s/lDl9snEiIfp7v4U0S3JVCg)
 
-- Jing, X., & **Wang, L.** (2025). **Power Dynamics and Risk Warning in Information Geopolitics**. *社会科学研究*, (1), 56–64. CSSCI. [[Link]](https://mp.weixin.qq.com/s?__biz=MzI2NjI3MjE3MA==&mid=2247522692&idx=1&sn=99a21e48b5064523f593dd8f5c000aac&chksm=eb9e53eef88274ef5e3c5fe3c3a88b22b376d88beba11c28f4a574fa401acf0d4c90e5b054c1&scene=27)
+- Jing, X., & **Wang, L.** (2025). **Power Dynamics and Risk Warning in Information Geopolitics**. *社会科学研究*, (1), 56–64. CSSCI. [[Link]](https://mp.weixin.qq.com/s/sIfJUFb7ZzQi05CwXgaxpA)
 
-- Jing, X., & **Wang, L.** (2025). **International Political Communication: Conceptual Evolution and Theoretical Analysis**. *新闻传播学刊*, (2), 78–92. Extended CSSCI. [[Link]](https://kns.cnki.net/kcms2/article/abstract?v=ldCk9GscAdACOo2B6RnB7ZTb7SNyijXcSLvuwTXvwCIQgQC32suUX-uZFbKIQKG3XEsWCjFIOatN5yTjCWrXdZA-roaaWbefxkhEvU-xSi8Z159EEDMnbMEGaSw51db5rpCc3wHr-sE7_tnRQplRPeAMdvXFduzb6gmW-zn_Dz2bFMqeggl9YQ==&uniplatform=NZKPT&language=CHS)
+- Jing, X., & **Wang, L.** (2025). **International Political Communication: Conceptual Evolution and Theoretical Analysis**. *新闻传播学刊*, (2), 78–92. Extended CSSCI. [[Link]](https://mp.weixin.qq.com/s/uh2zgiv6XAPLCnCx63mdHA)
 
-- Jing, X., & **Wang, L.** (2025). **On Political Courage and Political Discourse Expression — Studying the "Resolution of the CPC Central Committee on Further Deepening Reform Comprehensively and Advancing Chinese Modernization"**. *山西师大学报（社会科学版）*, 52(1), 1–7. [[Link]](https://link.cnki.net/doi/10.16207/j.cnki.1001-5957.20241209.002)
+- Jing, X., & **Wang, L.** (2025). **On Political Courage and Political Discourse Expression — Studying the "Resolution of the CPC Central Committee on Further Deepening Reform Comprehensively and Advancing Chinese Modernization"**. *山西师大学报（社会科学版）*, 52(1), 1–7. [[Link]](https://mp.weixin.qq.com/s/B7WYdVkftmlKGQwkwpGb4A)
 
 - Zhang, C., & **Wang, L.** (2025). **Virtual worlds, real politics: A cross-national comparative study of metaverse policy approaches**. *Politics and Governance, 13*, Article 10239. SSCI. [[Link]](https://doi.org/10.17645/pag.10239)
 
 - Zhang, C., & **Wang, L.** (2025). **Book review: Platforms, power, and politics: An introduction to political communication in the digital age**. *International Journal of Communication, 19*, 2297–2299. SSCI. [[Link]](https://ijoc.org/index.php/ijoc/article/view/25228/5018)
 
-- Su, Y., **Wang, L.**, & Gao, S. (2024). **Explaining and Integrating the Developmental Dynamics of Western Marketing-Style Theories of Political Communication**. *世界社会科学*, (4), 186–206. CSSCI. [[Link]](https://kns.cnki.net/kcms2/article/abstract?v=ldCk9GscAdDZkBTgHi_p98wzMbiIhiQQOa1aWRXOOQ1pAswSLG0zp4Es0054mVuRITz0Q-DXB-JrkHIq1xs-yAmxdKAMQXQNmcmSUD5cwP72fupEiwHQhVxc0sCA5-symewPrZOezh_hc3S0HFF4Cvuyt4kIrH52eVBKGVMq4cBhtywneq57414sL2z8pBCe&uniplatform=NZKPT&language=CHS)
+- Su, Y., **Wang, L.**, & Gao, S. (2024). **Explaining and Integrating the Developmental Dynamics of Western Marketing-Style Theories of Political Communication**. *世界社会科学*, (4), 186–206. CSSCI. [[Link]](https://mp.weixin.qq.com/s/P-mz98azl9iPhgBh6NYYmg)
 
-- Essel, F., & **Wang, L.** (Trans.) (2023). **Advances in Comparative Political Communication Research Based on Contextualization and Evidence Accumulation**. *中国政治传播研究*, (1), 168–173. [[Link]](https://kns.cnki.net/kcms2/article/abstract?v=ldCk9GscAdCCw0rTWb0NMjks-D1mz4aJ10RouZpUnvIqYkoWl-B9uydK3wyCV1bx_H9jBeYCqR4yVXoogIU7_rxCLNBwiRtg3d8HjlxkSrNrAa9L9wWZybyd8xYDfAmtEJR12ro10WgR0dyX_1WO3-80Gme6SkoNFXH1qUHDTh4S5ONWcoY2Ng==&uniplatform=NZKPT&language=CHS)
+- Essel, F., & **Wang, L.** (Trans.) (2023). **Advances in Comparative Political Communication Research Based on Contextualization and Evidence Accumulation**. *中国政治传播研究*, (1), 168–173. [[Link]](https://mp.weixin.qq.com/s/Y7fsmogoYFwAdkGv1lAB_g)
 
 ## Academic Commentary
 
