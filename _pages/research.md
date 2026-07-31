@@ -25,7 +25,7 @@ sitemap: true
 
 - Zhang, C., & **Wang, L.** (2025). **Book review: Platforms, power, and politics: An introduction to political communication in the digital age**. *International Journal of Communication, 19*, 2297–2299. SSCI. [[链接]](https://ijoc.org/index.php/ijoc/article/view/25228/5018)
 
-- 苏颖, **王乐轩**, 高山. (2024). **西方营销式政治传播理论的发展动力解释与整合**. *世界社会科学*, (4), 186–206. CSSCI. [[链接]](https://mp.weixin.qq.com/s/P-mz98azl9iPhgBh6NYYmg)
+- 苏颖, **王乐轩**, 高山. (2024). **西方营销式政治传播理论的发展动力解释与整合**. *世界社会科学*, (4), 186–206. CSSCI. [[链接]](https://ssaj.ajcass.com/Magazine/show/?id=97551)
 
 - 弗兰克·埃塞尔, **王乐轩** (编译). (2023). **基于情境化与证据积累的比较政治传播研究进展**. *中国政治传播研究*, (1), 168–173. [[链接]](https://mp.weixin.qq.com/s/Y7fsmogoYFwAdkGv1lAB_g)
 

@@ -26,7 +26,7 @@ My doctoral dissertation focuses on **international political communication**, e
 
 - Zhang, C., & **Wang, L.** (2025). **Book review: Platforms, power, and politics: An introduction to political communication in the digital age**. *International Journal of Communication, 19*, 2297–2299. SSCI. [[Link]](https://ijoc.org/index.php/ijoc/article/view/25228/5018)
 
-- Su, Y., **Wang, L.**, & Gao, S. (2024). **Explaining and Integrating the Developmental Dynamics of Western Marketing-Style Theories of Political Communication**. *世界社会科学*, (4), 186–206. CSSCI. [[Link]](https://mp.weixin.qq.com/s/P-mz98azl9iPhgBh6NYYmg)
+- Su, Y., **Wang, L.**, & Gao, S. (2024). **Explaining and Integrating the Developmental Dynamics of Western Marketing-Style Theories of Political Communication**. *世界社会科学*, (4), 186–206. CSSCI. [[Link]](https://ssaj.ajcass.com/Magazine/show/?id=97551)
 
 - Essel, F., & **Wang, L.** (Trans.) (2023). **Advances in Comparative Political Communication Research Based on Contextualization and Evidence Accumulation**. *中国政治传播研究*, (1), 168–173. [[Link]](https://mp.weixin.qq.com/s/Y7fsmogoYFwAdkGv1lAB_g)
 
