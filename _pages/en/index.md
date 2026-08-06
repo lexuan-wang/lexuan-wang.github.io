@@ -30,6 +30,8 @@ sitemap: true
 
 <h3>📌 Recent Updates</h3>
 <ul>
+  <li>Paper accepted at the 2026 NCA Annual Convention (National Communication Association, New Orleans)</li>
+  <li>2025 Academic Achievement Award, The Asia Media Research Center, Communication University of China</li>
   <li>July 2026 — 19th Annual Conference of the Chinese Community of Political Science and International Relations (Tsinghua University)</li>
   <li>June 2026 — ICA 2026 Beijing Regional Conference (Tsinghua University)</li>
   <li>May 2026 — 8th China Forum on Political Communication Studies (Communication University of China)</li>
