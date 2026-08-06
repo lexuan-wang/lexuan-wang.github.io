@@ -29,6 +29,7 @@ sitemap: true
 </ul>
 
 <h3>📌 Recent Updates</h3>
+<div class="updates-scroll">
 <ul>
   <li>Paper accepted at the 2026 NCA Annual Convention (National Communication Association, New Orleans)</li>
   <li>2025 Academic Achievement Award, The Asia Media Research Center, Communication University of China</li>
@@ -37,6 +38,7 @@ sitemap: true
   <li>May 2026 — 8th China Forum on Political Communication Studies (Communication University of China)</li>
   <li>The Political Communication Café Salon continues to run regularly</li>
 </ul>
+</div>
 
 <hr>
 

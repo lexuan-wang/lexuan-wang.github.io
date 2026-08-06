@@ -227,3 +227,23 @@ h1, h2, h3, h4, h5, h6 {
   margin-top: 2.4em;
   padding-bottom: 2.4em;
 }
+
+/* 近期动态：固定高度内滚动，避免首页过长 */
+.updates-scroll {
+  max-height: 9.5em;
+  overflow-y: auto;
+  padding-right: 0.6em;
+  /* 底部渐隐，暗示下方还有内容 */
+  mask-image: linear-gradient(to bottom, #000 82%, transparent 100%);
+  -webkit-mask-image: linear-gradient(to bottom, #000 82%, transparent 100%);
+}
+.updates-scroll::-webkit-scrollbar {
+  width: 6px;
+}
+.updates-scroll::-webkit-scrollbar-thumb {
+  background: #ccc;
+  border-radius: 3px;
+}
+.updates-scroll::-webkit-scrollbar-track {
+  background: transparent;
+}
